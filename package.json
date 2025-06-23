@@ -1,0 +1,23 @@
+{
+  "name": "wake-web-wdio",
+  "version": "1.0.0",
+  "description": "Headless uptime checker using WebDriverIO and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "webdriverio",
+    "uptime",
+    "express",
+    "monitoring",
+    "headless"
+  ],
+  "author": "you",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^125.0.0",
+    "express": "^4.18.2",
+    "webdriverio": "^8.28.0"
+  }
+}
