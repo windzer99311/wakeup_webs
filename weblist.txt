@@ -1,4 +1,4 @@
-https://wakeup-web.onrender.com
+https://wakeup-webs.onrender.com
 https://node-minecraft-bot.onrender.com/
 https://visitcount-always.streamlit.app/
 https://yt-insta.streamlit.app/
