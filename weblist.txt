@@ -1,5 +1,5 @@
 https://wakeup-webs.onrender.com
-https://ban-delete-frft.onrender.com/
+https://ban-delete.onrender.com
 https://node-minecraft-bot.onrender.com/
 https://visitcount-always.streamlit.app/
 https://yt-insta.streamlit.app/
